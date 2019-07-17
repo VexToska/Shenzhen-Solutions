@@ -6,4 +6,4 @@ No code was replicated, but I did take opinions on overall design.
 
 They are sorted based on the order I solved them in.
 
-![Image of Solution](https://github.com/VexToska/Shenzhen-Solutions/blob/master/Hard/Token-Based%20Payment%20Kiosk.png?raw=true)
+![Image of Solution](https://github.com/VexToska/Shenzhen-Solutions/blob/master/13.%20Token-Based%20Payment%20Kiosk.png)
