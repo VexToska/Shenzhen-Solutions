@@ -6,4 +6,4 @@ No code was replicated, but I did take opinions on overall design.
 
 They are sorted based on the order the levels unlock.
 
-![Image of Solution](https://github.com/VexToska/Shenzhen-Solutions/blob/master/13.%20Token-Based%20Payment%20Kiosk.png)
+![Image of Solution](13.%20Token-Based%20Payment%20Kiosk.png)
